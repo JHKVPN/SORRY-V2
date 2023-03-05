@@ -1,2 +1,0 @@
-# SORRY-V2
-SORRY-V2
