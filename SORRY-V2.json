@@ -25,15 +25,21 @@
 {
          "name": "TH-VIP-005",
          "url": "https://raw.githubusercontent.com/GamerVPN/Sorry-VIP/main/TH-005.ovpn"
+      },
+
+{
+         "name": "TH-VIP-006",
+         "url": "https://raw.githubusercontent.com/GamerVPN/Sorry-VIP/main/TH-007.ovpn"
       }
 
 
 
 
+
    ],
-"message":"5 March 2023\n\n•Version:1\n\n•✅Add 2 VIP IP✅\n\n📢By : SORRY📢",
+"message":"5 March 2023\n\n•Version:2\n\n•✅Add 2 VIP IP✅\n\n📢By : SORRY📢",
    "title":"🎄New Game VPS🎄" ,
-   "version": 1
+   "version": 2
 }
 
 
